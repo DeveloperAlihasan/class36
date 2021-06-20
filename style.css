@@ -587,8 +587,9 @@ body span p {
 }
 .company-logo:hover img{
     opacity: 1;
-    transform: translateY (-15px);
+    transform: translateY(-15px);
 }
 .company-logo:hover{
     background: #f6f9fc;
+	transform: translateY(-15px);
 }
