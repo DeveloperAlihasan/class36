@@ -586,10 +586,11 @@ body span p {
     transition: all 0.5s;
 }
 .company-logo:hover img{
+	transform: translateY(-15px);
     opacity: 1;
-    transform: translateY(-15px);
+   
 }
 .company-logo:hover{
     background: #f6f9fc;
-	transform: translateY(-15px);
+	
 }
